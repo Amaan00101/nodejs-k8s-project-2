@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-k8s-project-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amaan00101/nodejs-k8s-project-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amaan00101/nodejs-k8s-project-2/issues"
+  },
+  "homepage": "https://github.com/Amaan00101/nodejs-k8s-project-2#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+
+}
